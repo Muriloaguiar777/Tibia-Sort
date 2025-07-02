@@ -1,0 +1,6 @@
+{
+  "name": "Tibia Raffle Masters",
+  "description": "A professional web application for managing and participating in raffles for items from the game Tibia. Users can buy tickets, and an admin can manage raffles and draw winners with a creative announcement powered by Gemini.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
